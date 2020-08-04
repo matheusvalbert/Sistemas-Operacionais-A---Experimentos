@@ -1,11 +1,3 @@
-/*
-Alexandre Gil Lujan 			17148826
-Gabriel Albertin dos Santos 	17214172
-Gabriela Nelsina Vicente 		17757089
-Matheus Valbert 				17055641
-Tomas Martinolli Verwiebe 		17108978
-*/
-
 /*******************************************************************************
 * Este programa esta baseado no segundo experimento do curso sobre tempo real 
 * do Laboratorio Embry-Riddle
