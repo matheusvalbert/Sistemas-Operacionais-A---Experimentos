@@ -38,6 +38,5 @@ Nesta quarta atividade foi realizada a solução do problema do barbeiro dorminh
 # Começando a utilizá-lo
 ```
 Estas atividades devem ser utilizadas em um sistema operacional Linux.
-Após realizar o download dos arquivos deve-se compilar os arquivos utilizando o compilador gcc.
-Deve-se executar o servidor e logo em seguida o(s) cliente(s).
+Após realizar o download dos arquivos deve-se compilar os arquivos utilizando o compilador gcc e executar o código desejado.
 ```
