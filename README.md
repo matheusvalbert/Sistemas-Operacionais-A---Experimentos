@@ -1,5 +1,3 @@
-# Sistemas-Operacionais-A---Experimentos
-
 # Introdução
 ```
 Estas atividades foram desenvolvidas para o quinto semestre na disciplina de Sitemas Operacinais A.
